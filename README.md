@@ -18,11 +18,18 @@
 - ✅  Installing MySQL
 - ✅  Pushing Cronjobs
 
-### How to Use
+### How to Use the LEMP script
 
 ```php
 
 wget -q https://raw.githubusercontent.com/ahmad-chebbo/ubuntu-lemp/main/script.sh -O script.sh ; sudo chmod +x script.sh ; ./script.sh -d example.com
+# Replace example.com with your domain
+```
+### How to Use the laravel setup script
+
+```php
+
+wget -q https://raw.githubusercontent.com/ahmad-chebbo/ubuntu-lemp/main/laravel_setup.sh -O script.sh ; sudo chmod +x laravel_setup.sh ; ./laravel_setup.sh -d example.com
 # Replace example.com with your domain
 ```
 
