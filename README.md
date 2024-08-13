@@ -25,6 +25,19 @@
 wget -q https://raw.githubusercontent.com/ahmad-chebbo/ubuntu-lemp/main/script.sh -O script.sh ; sudo chmod +x script.sh ; ./script.sh -d example.com
 # Replace example.com with your domain
 ```
+
+### install Laravel project
+
+- ✅  PREPAIRE INSTALLING
+- ✅  ENTER GITHUB/GITLAB DETAILS
+- ✅  ENTER DATABASE DETAILS 
+- ✅  INSTALL DEPENDENCIES
+- ✅  SETUP ENVIRONMENT ADN DATABASE
+- ✅  CREATE DATABASE
+- ✅  CREATING NGINX FILE FOR [example.com](http://example.com/)
+- ✅  GENERATING SSL CERTIFICATE FOR [example.com](http://example.com/)
+- ✅  FINALIZE INSTALLING
+
 ### How to Use the laravel setup script
 
 ```php
