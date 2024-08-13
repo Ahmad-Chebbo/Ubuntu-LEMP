@@ -1,6 +1,6 @@
 # About
 
-### install Important softwares on fresh Ubuntu instance
+### Install Important softwares on fresh Ubuntu instance
 
 - ✅  PREPAIRE Installing
 - ✅  REMOVING APACHE
@@ -26,7 +26,7 @@ wget -q https://raw.githubusercontent.com/ahmad-chebbo/ubuntu-lemp/main/script.s
 # Replace example.com with your domain
 ```
 
-### install Laravel project
+### Install Laravel project
 
 - ✅  PREPAIRE INSTALLING
 - ✅  ENTER GITHUB/GITLAB DETAILS
